@@ -41,7 +41,7 @@ Pooling 방식으로 주문 접수 확인.
 # 앱
 Android Studio에서 Kotlin으로 제작.
 
-<img height="1000" alt="캡처4" src="https://github.com/user-attachments/assets/86e28e33-6a30-46f7-a95b-8aac84d25aff" />
+<img height="500" alt="캡처4" src="https://github.com/user-attachments/assets/86e28e33-6a30-46f7-a95b-8aac84d25aff" />
 
 
 주문 접수 상태 제어 및 알림 관리 기능. 
