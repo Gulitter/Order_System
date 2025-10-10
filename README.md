@@ -9,13 +9,13 @@ https://www.songdoroadpizza.kr/
 REACT의 JSX를 사용하여 화면을 구성.
 
 다양한 화면에서도 자연스럽도록 반응형 웹페이지로 제작.
-#### 메뉴페이지
+#### - 메뉴페이지
 <img width="3840" height="1286" alt="image" src="https://github.com/user-attachments/assets/3dd0e7f2-7394-4752-a658-c35fa29d60c9" />
 
-#### 주문페이지
+#### - 주문페이지
 <img width="961" height="598" alt="캡처" src="https://github.com/user-attachments/assets/03a13389-fda4-4e5e-b016-f3170ac8f06a" />
 
-#### 서버
+#### - 서버
 Google Cloud Platform에서 가상머신으로 서버 생성.
 
 Node.js로 Express 프레임워크를 사용하여 제작. 
@@ -24,7 +24,7 @@ Node.js로 Express 프레임워크를 사용하여 제작.
 
 주문할 때 알림권한을 허용할 경우 토큰을 저장하고, FCM(Firebase Cloud Messaging)을 통해 알림 전송.
 
-# 프로그램
+# - 프로그램
 Python Qt5프레임워크를 사용하여 제작.
 
 #### UI
