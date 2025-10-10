@@ -4,6 +4,7 @@
 https://www.songdoroadpizza.kr/
 
 실제로 사용하기 위한 주문체계를 적용한 홈페이지, 프로그램, 앱 제작
+<img width="1244" height="611" alt="image" src="https://github.com/user-attachments/assets/1b41187c-5d61-41a9-9543-7cf7b5cf95f1" />
 
 # 홈페이지
 REACT의 JSX를 사용하여 화면을 구성.
