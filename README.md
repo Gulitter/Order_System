@@ -24,10 +24,10 @@ Node.js로 Express 프레임워크를 사용하여 제작.
 
 주문할 때 알림권한을 허용할 경우 토큰을 저장하고, FCM(Firebase Cloud Messaging)을 통해 알림 전송.
 
-# - 프로그램
+# 프로그램
 Python Qt5프레임워크를 사용하여 제작.
 
-#### UI
+# - UI
 <img width="878" height="531" alt="캡처2" src="https://github.com/user-attachments/assets/78a8015c-9253-430e-8026-7de0a198146e" />
 
 <img width="835" height="584" alt="캡처3" src="https://github.com/user-attachments/assets/d03d266f-7d2c-4052-a908-e5d8b7eda27f" />
