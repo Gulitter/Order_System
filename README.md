@@ -27,7 +27,7 @@ Node.js로 Express 프레임워크를 사용하여 제작.
 # 프로그램
 Python Qt5프레임워크를 사용하여 제작.
 
-# - UI
+#### - UI
 <img width="878" height="531" alt="캡처2" src="https://github.com/user-attachments/assets/78a8015c-9253-430e-8026-7de0a198146e" />
 
 <img width="835" height="584" alt="캡처3" src="https://github.com/user-attachments/assets/d03d266f-7d2c-4052-a908-e5d8b7eda27f" />
@@ -41,6 +41,7 @@ Pooling 방식으로 주문 접수 확인.
 # 앱
 Android Studio에서 Kotlin으로 제작.
 
+#### - UI
 <img height="500" alt="캡처4" src="https://github.com/user-attachments/assets/86e28e33-6a30-46f7-a95b-8aac84d25aff" />
 
 
